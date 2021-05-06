@@ -1,0 +1,6 @@
+[Flatpak Repo]
+Title=Fedora
+Url=oci+https://registry.fedoraproject.org
+Homepage=https://registry.fedoraproject.org
+Comment=Fedora Flatpaks
+Description=Fedora Flatpaks
